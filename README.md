@@ -1,4 +1,4 @@
 # BootStrap
 
-1. Example
-2. grid
+1. Container
+2. grid and Bg and text color
